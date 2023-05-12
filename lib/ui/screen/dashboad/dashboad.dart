@@ -170,7 +170,9 @@ class _DashboadScreen2State extends State<DashboadScreen2> {
                               ),
                             ),
                           ),
-                          SizedBox(height: 10),
+                          SizedBox(
+                            height: 10,
+                          ),
                         ],
                       ),
                       Column(
